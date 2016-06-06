@@ -8,7 +8,7 @@ var myApp = angular.module('myApp', []);
         var vm = this;
         vm.markers = [];
         vm.markerId = 0;
-        vm.contentString = "boom"
+        vm.contentString = "fuck this! why dont I work!!!"
 
         //console.log(document.getElementById('map_canvas'));
         vm.map;
